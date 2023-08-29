@@ -4,35 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "33ee605391b54a66",
-        "type": "tabs",
+        "id": "97cd53a310db3bb4",
+        "type": "split",
         "children": [
           {
-            "id": "6f014929c578e2fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Idea.md",
-                "mode": "source",
-                "source": false
+            "id": "33ee605391b54a66",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6f014929c578e2fc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Idea.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "320fcf7c8deb8311",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Game Idea.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "69a46680ce779737"
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "320fcf7c8deb8311",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
+            "id": "11e17ce5d2a9550b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bea72d8a001a694f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Game Idea.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "group": "69a46680ce779737"
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -98,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Game Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Game Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "Game Idea.md"
               }
             }
           }
@@ -159,9 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "320fcf7c8deb8311",
+  "active": "bea72d8a001a694f",
   "lastOpenFiles": [
-    "Game Idea.md",
-    "Test.md"
+    "2023-08-29.md",
+    "Test.md",
+    "Game Idea.md"
   ]
 }
