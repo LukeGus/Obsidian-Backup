@@ -9,7 +9,7 @@
   "pullBeforePush": true,
   "disablePopups": true,
   "listChangedFilesInMessageBody": false,
-  "showStatusBar": false,
+  "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
@@ -25,7 +25,7 @@
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
   "gitDir": "",
-  "showFileMenu": false,
+  "showFileMenu": true,
   "lineAuthor": {
     "show": false,
     "followMovement": "inactive",
