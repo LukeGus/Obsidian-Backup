@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "424d7035b137e67f",
+        "id": "b52ed6c5320c89db",
         "type": "tabs",
         "children": [
           {
-            "id": "6595ca76850493cf",
+            "id": "5efeadbcc203a38f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Game Idea.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Game Idea.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Game Idea.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Game Idea.md"
+          }
         }
       }
     ],
@@ -123,6 +131,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6595ca76850493cf",
+  "active": "5efeadbcc203a38f",
   "lastOpenFiles": []
 }
