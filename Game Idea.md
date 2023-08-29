@@ -1,1 +1,1 @@
-The plan is to create a minigame based game where you join a lobby and you play different minigame's. If you win a minigame you get points/money to buy things to aid you in the games or punish other players. They call me the  rapist, I'm not a rapist.
+The plan is to create a minigame based game where you join a lobby and you play different minigame's. If you win a minigame you get points/money to buy things to aid you in the games or punish other players.
