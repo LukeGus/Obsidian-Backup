@@ -9,7 +9,7 @@
 - Write the summary of your commit
     
 - Write the description of what you commit. Make sure it provides in depth detail about what you change and why.
-
+    
 - Commit to main
     
 - Push to origin
