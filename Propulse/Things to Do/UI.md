@@ -1,4 +1,4 @@
-Enlarge Controls on Mobile and also make them look good
+Enlarge Controls on Mobile and also make them look good also make sure that the UI does not show on pc or webgl
 
 Make an escape menu
 
