@@ -30,9 +30,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f68865dc60c512c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Propulse/Things to Do/UI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37794138f6493542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Propulse/Things to Do/Maps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2c551c6e6bb7a78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Propulse/Things to Do/New Features.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcc445c41aee7e98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Propulse/Things to Do/Drones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fe49b74c471d446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Propulse/Things to Do/Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d586c4eae8e46d1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Propulse/Things to Do/Maps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -98,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Propulse/Planning/Before Test with Everyone.md",
+                "file": "Propulse/Things to Do/Maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Propulse/Planning/Before Test with Everyone.md",
+                "file": "Propulse/Things to Do/Maps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Propulse/Planning/Before Test with Everyone.md"
+                "file": "Propulse/Things to Do/Maps.md"
               }
             }
           }
@@ -159,10 +231,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "320fcf7c8deb8311",
+  "active": "d586c4eae8e46d1d",
   "lastOpenFiles": [
-    "Propulse/Planning/Game Idea.md",
+    "Propulse/Things to Do/UI.md",
+    "Propulse/Things to Do/Drones.md",
+    "Propulse/Things to Do/Other.md",
+    "Propulse/Things to Do/Networking.md",
+    "Propulse/Things to Do/New Features.md",
+    "Untitled",
+    "Propulse/Things to Do/Maps.md",
+    "Propulse/Things to Do",
     "Propulse/Planning/Before Test with Everyone.md",
+    "Propulse/Planning/Game Idea.md",
     "Propulse/How To/How To Commit To GitHub.md",
     "Propulse",
     "Test.md",
