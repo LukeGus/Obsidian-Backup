@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Propulse/Planning/Game Idea.md",
+                "file": "Propulse/Planning/Before Test with Everyone.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Propulse/Planning/Game Idea.md",
+                "file": "Propulse/Planning/Before Test with Everyone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Propulse/Planning/Game Idea.md",
+                "file": "Propulse/Planning/Before Test with Everyone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Propulse/Planning/Game Idea.md"
+                "file": "Propulse/Planning/Before Test with Everyone.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "320fcf7c8deb8311",
   "lastOpenFiles": [
-    "Propulse/How To/How To Commit To GitHub.md",
     "Propulse/Planning/Game Idea.md",
+    "Propulse/Planning/Before Test with Everyone.md",
+    "Propulse/How To/How To Commit To GitHub.md",
     "Propulse",
     "Test.md",
     "Propulse/Planning",
