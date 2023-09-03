@@ -10,5 +10,7 @@ Make a page for modfying the drone with the drone sitting on a pedestal, wheneve
 
 Make all the UI on physical objects in the lobby (The hangar) Then have buttons to go to each part of the lobby at the top of the screen.
 
+Hanging
+
 Google Authentication for lootlocker
 
