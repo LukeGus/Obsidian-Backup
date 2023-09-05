@@ -10,7 +10,7 @@ Make a page for modfying the drone with the drone sitting on a pedestal, wheneve
 
 Make all the UI on physical objects in the lobby (The hangar) Then have buttons to go to each part of the lobby at the top of the screen.
 
-Controls being custom on webgl and pc. Also make sure controls are custom on mobile.
+Controls being custom on webgl and pc. Also make sure controls are custom on mobile. In yhe drone script make sure the function to make the custom controls is the right function.
 
 Google Authentication for lootlocker
 
