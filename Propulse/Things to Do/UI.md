@@ -12,5 +12,7 @@ Make all the UI on physical objects in the lobby (The hangar) Then have buttons 
 
 Controls being custom on webgl and pc. Also make sure controls are custom on mobile. In yhe drone script make sure the function to make the custom controls is the right function.
 
-Google Authentication for lootlocker
+To fix the movement on Android and webgl, set the controls to be custom forever and just set up wasdijkl input controls that sets the custom stuff for movement.
+
+Goog
 
