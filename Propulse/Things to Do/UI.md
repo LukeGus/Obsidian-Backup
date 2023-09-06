@@ -14,5 +14,5 @@ Controls being custom on webgl and pc. Also make sure controls are custom on mob
 
 To fix the movement on Android and webgl, set the controls to be custom forever and just set up wasdijkl input controls that sets the custom stuff for movement.
 
-White label authentication using loot locker
+White label authentication using loot locker. Check emails to make sure I got approved.
 
