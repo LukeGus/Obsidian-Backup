@@ -12,7 +12,7 @@ Make all the UI on physical objects in the lobby (The hangar) Then have buttons 
 
 Controls being custom on webgl and pc. Also make sure controls are custom on mobile. In yhe drone script make sure the function to make the custom controls is the right function.
 
-To fix the movement on Android and webgl, set the controls to be custom forever and just set up wasdijkl input controls that sets the custom stuff for movement. Make sure that the custom feed variable is getting to be set as true also make sure that the custom input feed function is 
+To fix the movement on Android and webgl, set the controls to be custom forever and just set up wasdijkl input controls that sets the custom stuff for movement. Make sure that the custom feed variable is getting to be set as true also make sure that the custom input feed function is getting called.
 
 White label authentication using loot locker. Check emails to make sure I got approved.
 
