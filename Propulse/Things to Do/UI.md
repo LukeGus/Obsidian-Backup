@@ -16,6 +16,8 @@ To fix the movement on Android and webgl, set the controls to be custom forever 
 
 Set the custom throttle to 1 and see if it goes up also try different key bands for movement or anything possible I can do to move the object.
 
+Modify lines 293
+
 Use remote config for prices, how much money players get for things, maps that are allowed, that kind of thing.
 
 White label authentication using loot locker. Check emails to make sure I got approved.
