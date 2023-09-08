@@ -14,5 +14,7 @@ Controls being custom on webgl and pc. Also make sure controls are custom on mob
 
 To fix the movement on Android and webgl, set the controls to be custom forever and just set up wasdijkl input controls that sets the custom stuff for movement. Make sure that the custom feed variable is getting to be set as true also make sure that the custom input feed function is getting called.
 
+Use remote config for prices, how much money players get for things, maps that are allowed, that kind of thing.
+
 White label authentication using loot locker. Check emails to make sure I got approved.
 
