@@ -1,0 +1,1 @@
+Use remote config for prices, how much money players get for things, maps that are allowed, that kind of thing.
