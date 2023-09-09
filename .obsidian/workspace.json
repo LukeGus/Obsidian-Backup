@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "8839ddf142e88162",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          },
+          {
             "id": "f68865dc60c512c0",
             "type": "leaf",
             "state": {
@@ -91,7 +101,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,7 +229,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "320fcf7c8deb8311",
+  "active": "8839ddf142e88162",
   "lastOpenFiles": [
     "Propulse/Things to Do/Other.md",
     "Propulse/Things to Do/Drones.md",
