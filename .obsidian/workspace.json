@@ -44,6 +44,42 @@
             }
           },
           {
+            "id": "cc8a37ad2a97c5dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Add New Drone Upgrade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f93f4b184b64776",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Make New Map.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea41d60b52026888",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Upgrade Game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f68865dc60c512c0",
             "type": "leaf",
             "state": {
@@ -116,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -182,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Propulse/Things to Do/Drones.md",
+                "file": "Upgrade Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Propulse/Things to Do/Drones.md",
+                "file": "Upgrade Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Propulse/Things to Do/Drones.md"
+                "file": "Upgrade Game.md"
               }
             }
           }
@@ -245,7 +281,17 @@
   },
   "active": "056316d33a5dd49f",
   "lastOpenFiles": [
+    "Make New Map.md",
+    "Upgrade Game.md",
+    "Add New Drone Upgrade.md",
+    "Propulse/Things to Do/Drones.md",
     "Untitled",
+    "Add New Drone Upgrade",
+    "Update Game",
+    "Propulse/How To/How To Commit To GitHub.md",
+    "Make New Map",
+    "Propulse/Planning/Before Test with Everyone.md",
+    "How-To",
     "Propulse/Things to Do/Loot Locker.md",
     "Propulse/Things to Do/Maps.md",
     "Propulse/Things to Do/Networking.md",
@@ -253,13 +299,10 @@
     "Propulse/Things to Do/UI.md",
     "Propulse/Things to Do/Other.md",
     "Propulse/Things to Do/Untitled.md",
-    "Propulse/Things to Do/Drones.md",
     "Propulse/Planning/Game Idea.md",
-    "Propulse/Planning/Before Test with Everyone.md",
     "2023-09-02.md",
     "Untitled.canvas",
     "Propulse/Things to Do",
-    "Propulse/How To/How To Commit To GitHub.md",
     "Propulse",
     "Test.md",
     "Propulse/Planning",
