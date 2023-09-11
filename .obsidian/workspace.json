@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Propulse/Things to Do/Other.md",
+                "file": "Propulse/Things to Do/Drones.md",
                 "mode": "source",
                 "source": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Propulse/Things to Do/Other.md",
+                "file": "Propulse/Things to Do/Drones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Propulse/Things to Do/Other.md",
+                "file": "Propulse/Things to Do/Drones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Propulse/Things to Do/Other.md"
+                "file": "Propulse/Things to Do/Drones.md"
               }
             }
           }
@@ -305,6 +305,7 @@
   },
   "active": "1317df2f02a581f1",
   "lastOpenFiles": [
+    "Propulse/Things to Do/Other.md",
     "Propulse/How To/Make New Game.md",
     "Propulse/How To/Upgrade Game.md",
     "Propulse/How To/Add New Drone Upgrade.md",
@@ -322,7 +323,6 @@
     "Propulse/Things to Do/Networking.md",
     "Propulse/Things to Do/New Features.md",
     "Propulse/Things to Do/UI.md",
-    "Propulse/Things to Do/Other.md",
     "Propulse/Things to Do/Untitled.md",
     "Propulse/Planning/Game Idea.md",
     "2023-09-02.md",
