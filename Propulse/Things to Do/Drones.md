@@ -1,14 +1,14 @@
 
 **New Drone Upgrades**
 
-Sensor Upgrade l Increases Look Around Speed
+Sensor Upgrade l Increases Look Around Speed l
 
-Engine Upgrade l Increases Upwards Speed
+Engine Upgrade l Increases Upwards Speed l 
 
-Gyroscope Upgrade I Improves Directional Speed
+Gyroscope Upgrade I Improves Directional Speed l
 
 **New Features**
 
-**Other**
+Have different base drones with a better default speed 
 
-Use player perfs or storage slots to save player data/save drone setups
+**Other**
