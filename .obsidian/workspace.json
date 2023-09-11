@@ -4,179 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "33ee605391b54a66",
+        "id": "1e285aef48b28973",
         "type": "tabs",
         "children": [
           {
-            "id": "320fcf7c8deb8311",
+            "id": "db1f252772f46fba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Propulse/Things to Do/UI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8839ddf142e88162",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Propulse/Things to Do/Loot Locker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e92aaa2cffac25e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Propulse/Things to Do/Drones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc8a37ad2a97c5dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Propulse/How To/Add New Drone Upgrade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f93f4b184b64776",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Propulse/How To/Make New Map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea41d60b52026888",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Propulse/How To/Upgrade Game.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c54f8c7c20e108da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Propulse/How To/Upgrade Game.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1317df2f02a581f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Propulse/Things to Do/Drones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f68865dc60c512c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Propulse/Things to Do/UI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37794138f6493542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Propulse/Things to Do/Maps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2c551c6e6bb7a78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Propulse/Things to Do/New Features.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcc445c41aee7e98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Propulse/Things to Do/Drones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fe49b74c471d446",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Propulse/Things to Do/Networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d586c4eae8e46d1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Propulse/Things to Do/UI.md",
-                "mode": "source",
-                "source": false
+                "file": "Propulse/Propulse Canvas.canvas",
+                "viewState": {
+                  "x": -93,
+                  "y": 1564.7162364732858,
+                  "zoom": -0.6666666666666666
+                }
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Propulse/Things to Do/Drones.md",
+                "file": "Propulse/Propulse Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Propulse/Things to Do/Drones.md",
+                "file": "Propulse/Propulse Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Propulse/Things to Do/Drones.md"
+                "file": "Propulse/Propulse Canvas.canvas"
               }
             }
           }
@@ -303,10 +149,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1317df2f02a581f1",
+  "active": "db1f252772f46fba",
   "lastOpenFiles": [
-    "Propulse/Things to Do/Loot Locker.md",
+    "Propulse/Propulse Canvas.canvas",
+    "Propulse/Things to Do/UI.md",
+    "Propulse/Things to Do/Networking.md",
     "Propulse/Things to Do/Drones.md",
+    "Propulse/Things to Do/New Features.md",
+    "Propulse/Things to Do/Maps.md",
+    "Propulse/Planning/Game Idea.md",
+    "Propulse/Things to Do/Loot Locker.md",
     "Propulse/Things to Do/Other.md",
     "Propulse/How To/Make New Game.md",
     "Propulse/How To/Upgrade Game.md",
@@ -319,14 +171,8 @@
     "Make New Map",
     "Propulse/Planning/Before Test with Everyone.md",
     "How-To",
-    "Propulse/Things to Do/Maps.md",
-    "Propulse/Things to Do/Networking.md",
-    "Propulse/Things to Do/New Features.md",
-    "Propulse/Things to Do/UI.md",
     "Propulse/Things to Do/Untitled.md",
-    "Propulse/Planning/Game Idea.md",
     "2023-09-02.md",
-    "Untitled.canvas",
     "Propulse/Things to Do",
     "Propulse",
     "Test.md",
