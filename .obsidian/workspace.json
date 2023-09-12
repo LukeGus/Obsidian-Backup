@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Propulse/Things to Do/Loot Locker.md",
+                "file": "Propulse/Things to Do/Other.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Propulse/Things to Do/Loot Locker.md",
+                "file": "Propulse/Things to Do/Other.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Propulse/Things to Do/Loot Locker.md",
+                "file": "Propulse/Things to Do/Other.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Propulse/Things to Do/Loot Locker.md"
+                "file": "Propulse/Things to Do/Other.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "db1f252772f46fba",
   "lastOpenFiles": [
-    "Propulse/Things to Do/Drones.md",
     "Propulse/Things to Do/Loot Locker.md",
+    "Propulse/Things to Do/Drones.md",
     "Propulse/Things to Do/Maps.md",
     "Propulse/Things to Do/Networking.md",
     "Propulse/Things to Do/New Features.md",
