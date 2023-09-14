@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69e9c3d525e0ce0c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,6 +139,16 @@
                 "file": "Propulse/Things to Do/Other.md"
               }
             }
+          },
+          {
+            "id": "bc78bd51831c3bf9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -146,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db1f252772f46fba",
+  "active": "69e9c3d525e0ce0c",
   "lastOpenFiles": [
     "Propulse/Things to Do/Loot Locker.md",
     "Propulse/Things to Do/Drones.md",
