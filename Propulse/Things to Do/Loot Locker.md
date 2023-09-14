@@ -2,4 +2,4 @@ Use remote config for prices, how much money players get for things, maps that a
 
 Will have to use loot locker to save drone setups
 
-Figure out player names. Allow them to change their names whenever but make sure a default name gets set maybe? Or figure out how to initially set it.
+Figure out player names. I can always login and start a session, but disallow anything else before the Playername isnt null. To figure out what is null use a debug to figure out what the name is before setting a name.
