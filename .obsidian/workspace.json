@@ -23,9 +23,11 @@
             "id": "69e9c3d525e0ce0c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.11"
+                "file": "Propulse/Things to Do/Loot Locker.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Propulse/Things to Do/Other.md",
+                "file": "Propulse/Things to Do/Loot Locker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Propulse/Things to Do/Other.md",
+                "file": "Propulse/Things to Do/Loot Locker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Propulse/Things to Do/Other.md"
+                "file": "Propulse/Things to Do/Loot Locker.md"
               }
             }
           },
