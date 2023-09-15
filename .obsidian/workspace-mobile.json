@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d12dce13611fa4dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Propulse/Things to Do/Loot Locker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,15 +156,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fbc1b8f044dbfb7",
+  "active": "d12dce13611fa4dc",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Propulse/Things to Do/Loot Locker.md",
     "Propulse/Things to Do/Website.md",
     "Propulse/Things to Do/UI.md",
     "Propulse/How To/Upgrade Game.md",
     "Propulse/How To/Make New Map.md",
     "Propulse/How To/Make New Game.md",
     "Propulse/How To/Add New Drone Upgrade.md",
-    "Propulse/Things to Do/Loot Locker.md",
     "/Propulse/How To/Upgrade Game.md",
     "/Propulse/How To/Make New Map.md",
     "/Propulse/How To/Make New Game.md",
