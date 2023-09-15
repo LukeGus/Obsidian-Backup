@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Propulse/Things to Do/Drones.md",
+                "file": "Propulse/Things to Do/Loot Locker.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Propulse/Things to Do/Drones.md",
+            "file": "Propulse/Things to Do/Loot Locker.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Propulse/Things to Do/Drones.md",
+            "file": "Propulse/Things to Do/Loot Locker.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Propulse/Things to Do/Drones.md"
+            "file": "Propulse/Things to Do/Loot Locker.md"
           }
         }
       }
@@ -156,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d12dce13611fa4dc",
+  "active": "74d49da3b63c42f1",
   "lastOpenFiles": [
+    "Propulse/Things to Do/Drones.md",
     "Propulse/Things to Do/Loot Locker.md",
     "conflict-files-obsidian-git.md",
     "Propulse/Things to Do/Website.md",
@@ -176,7 +177,6 @@
     "/Propulse/Things to Do/Drones.md",
     "Propulse/Things to Do/Networking.md",
     "Propulse/Things to Do/Other.md",
-    "Propulse/Things to Do/Maps.md",
-    "Propulse/Things to Do/Drones.md"
+    "Propulse/Things to Do/Maps.md"
   ]
 }
