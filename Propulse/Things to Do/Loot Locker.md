@@ -8,4 +8,4 @@ For the loadout. Have a template script that has a function that buys the upgrad
 
 Have a script that just deals with setting the currency text.
 
-Have a script that creates every key.
+Have a script that creates every key ev
