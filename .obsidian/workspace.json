@@ -35,9 +35,11 @@
             "id": "0488013074f7aa75",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "Propulse/Things to Do/Loot Locker.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
