@@ -1,3 +1,1 @@
-Make mobile controls look and feel better
-
-Make an escape menu
+Check if the mouse cursour is being silly
