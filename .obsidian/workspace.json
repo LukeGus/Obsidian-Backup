@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Propulse/Things to Do/Work On Now.md",
+                "file": "Gunforge/The Idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Propulse/Things to Do/Work On Now.md",
+                "file": "Gunforge/The Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Propulse/Things to Do/Work On Now.md",
+                "file": "Gunforge/The Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Propulse/Things to Do/Work On Now.md"
+                "file": "Gunforge/The Idea.md"
               }
             }
           },
@@ -193,8 +193,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "056316d33a5dd49f",
+  "active": "1d0e77f6880a22c3",
   "lastOpenFiles": [
+    "Propulse/Things to Do/Work On Now.md",
+    "Gunforge/The Idea.md",
     "Gunforge",
     "Propulse/Things to Do/Drones.md",
     "Propulse/Things to Do/Loot Locker.md",
@@ -204,7 +206,6 @@
     "Propulse/Things to Do/Other.md",
     "Propulse/Things to Do/UI.md",
     "Propulse/Things to Do/Website.md",
-    "Propulse/Things to Do/Work On Now.md",
     "Propulse/Propulse Canvas.canvas",
     "Propulse/Planning/Game Idea.md",
     "Propulse/How To/Make New Game.md",
